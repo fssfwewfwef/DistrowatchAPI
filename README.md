@@ -1,7 +1,7 @@
 # DistrowatchAPI
 Very simple unofficial distrowatch api
 
-It allows to take a top of distributions from distrowatch.com:
+It allows to take a top of distributions from <a href="distrowatch.com">distrowatch.com<a>:
 
     from api.distrowatch import Distrowatch
     from api.periods import PeriodType
