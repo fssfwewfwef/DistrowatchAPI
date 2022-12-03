@@ -1,1 +1,1 @@
-from distrowatch import Distrowatch
+from .distrowatch import Distrowatch
